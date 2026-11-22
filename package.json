@@ -1,0 +1,12 @@
+{
+  "name": "ahsan-tours-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website for Ahsan Tours, Sahaspur, Dehradun",
+  "scripts": {
+    "start": "serve -s . -l ${PORT:-3000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
